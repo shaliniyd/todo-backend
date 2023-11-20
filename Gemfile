@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby "2.3.3"
+ruby "~> 2.7"
 
 gem 'rake'
 gem 'thor'
