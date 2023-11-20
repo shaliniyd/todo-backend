@@ -1,0 +1,5 @@
+
+tasks:
+  tests:
+    steps:
+    - bundle install
